@@ -1,7 +1,7 @@
 import telebot
 import requests
 
-TOKEN = 'TOKEN_KEE_AS_GALCHI' # Telegram Bot Token kee
+TOKEN = "8783344805:AAF7Jky-d_sRfD7Tw_cVvLPRjAHPApCs2eM"
 bot = telebot.TeleBot(TOKEN)
 
 # Gateway Codespaces keessa jiru (Local)
